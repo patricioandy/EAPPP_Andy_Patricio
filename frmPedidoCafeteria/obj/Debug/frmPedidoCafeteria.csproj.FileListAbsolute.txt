@@ -1,0 +1,10 @@
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\bin\Debug\frmPedidoCafeteria.exe.config
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\bin\Debug\frmPedidoCafeteria.exe
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\bin\Debug\frmPedidoCafeteria.pdb
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\obj\Debug\frmPedidoCafeteria.csproj.AssemblyReference.cache
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\obj\Debug\frmPedidoCafeteria.Form1.resources
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\obj\Debug\frmPedidoCafeteria.Properties.Resources.resources
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\obj\Debug\frmPedidoCafeteria.csproj.GenerateResource.cache
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\obj\Debug\frmPedidoCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\obj\Debug\frmPedidoCafeteria.exe
+C:\Users\FIEECEC\source\repos\frmPedidoCafeteria\frmPedidoCafeteria\obj\Debug\frmPedidoCafeteria.pdb
