@@ -1,18 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FIEECEC\\source\\repos\\frmPedidoCafeteria\\",
+  "WorkspaceRootPath": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|c:\\users\\fieecec\\source\\repos\\frmpedidocafeteria\\frmpedidocafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|c:\\users\\patri\\source\\repos\\eappp_andy_patricio\\frmpedidocafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|solutionrelative:frmpedidocafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|c:\\users\\fieecec\\source\\repos\\frmpedidocafeteria\\frmpedidocafeteria\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmpedidocafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|solutionrelative:frmpedidocafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmpedidocafeteria\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|solutionrelative:frmpedidocafeteria\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|c:\\users\\fieecec\\source\\repos\\frmpedidocafeteria\\frmpedidocafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|solutionrelative:frmpedidocafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|frmPedidoCafeteria||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF72A435-463E-4962-AACB-371C0D143523}|frmPedidoCafeteria\\frmPedidoCafeteria.csproj|c:\\users\\patri\\source\\repos\\eappp_andy_patricio\\frmpedidocafeteria\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +28,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\FIEECEC\\source\\repos\\frmPedidoCafeteria\\frmPedidoCafeteria\\Form1.cs",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmPedidoCafeteria\\Form1.cs",
               "RelativeDocumentMoniker": "frmPedidoCafeteria\\Form1.cs",
-              "ToolTip": "C:\\Users\\FIEECEC\\source\\repos\\frmPedidoCafeteria\\frmPedidoCafeteria\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "frmPedidoCafeteria\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmPedidoCafeteria\\Form1.cs*",
+              "RelativeToolTip": "frmPedidoCafeteria\\Form1.cs*",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAhwLEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:44:34.622Z",
+              "WhenOpened": "2026-11-24T23:05:30.432Z",
               "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\FIEECEC\\source\\repos\\frmPedidoCafeteria\\frmPedidoCafeteria\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "frmPedidoCafeteria\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\FIEECEC\\source\\repos\\frmPedidoCafeteria\\frmPedidoCafeteria\\Form1.Designer.cs*",
-              "RelativeToolTip": "frmPedidoCafeteria\\Form1.Designer.cs*",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAAAM0AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T14:51:02.184Z",
+              "DocumentIndex": 3,
+              "Title": "frmPedidoCafeteria",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmPedidoCafeteria\\frmPedidoCafeteria.csproj",
+              "RelativeDocumentMoniker": "frmPedidoCafeteria\\frmPedidoCafeteria.csproj",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmPedidoCafeteria\\frmPedidoCafeteria.csproj",
+              "RelativeToolTip": "frmPedidoCafeteria\\frmPedidoCafeteria.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-25T00:31:03.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\FIEECEC\\source\\repos\\frmPedidoCafeteria\\frmPedidoCafeteria\\Form1.cs",
-              "RelativeDocumentMoniker": "frmPedidoCafeteria\\Form1.cs",
-              "ToolTip": "C:\\Users\\FIEECEC\\source\\repos\\frmPedidoCafeteria\\frmPedidoCafeteria\\Form1.cs*",
-              "RelativeToolTip": "frmPedidoCafeteria\\Form1.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmPedidoCafeteria\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "frmPedidoCafeteria\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmPedidoCafeteria\\Form1.Designer.cs*",
+              "RelativeToolTip": "frmPedidoCafeteria\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwKgBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-24T15:02:47.11Z",
+              "WhenOpened": "2026-11-24T23:10:33.839Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmPedidoCafeteria\\Form1.cs",
+              "RelativeDocumentMoniker": "frmPedidoCafeteria\\Form1.cs",
+              "ToolTip": "C:\\Users\\patri\\source\\repos\\EAPPP_Andy_Patricio\\frmPedidoCafeteria\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "frmPedidoCafeteria\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T22:56:32.991Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
